@@ -141,7 +141,6 @@ python test_image.py
 ## 9. Dataset
 
 * FER-2013
-* CK+ Dataset
 
 ---
 
