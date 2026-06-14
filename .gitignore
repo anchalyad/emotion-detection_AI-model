@@ -1,0 +1,26 @@
+# Virtual environment
+emotion_env/
+Data/Angry
+Data/Happy
+Data/Neutral
+Data/Sad
+Data/Surprise
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+dataset/fer2013.csv
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+temp/
