@@ -182,6 +182,6 @@ This project is licensed under the MIT License.
 
 * OpenCV community
 * TensorFlow and Keras
-* FER-2013 and CK+ dataset providers
+* FER-2013
 
 ---
